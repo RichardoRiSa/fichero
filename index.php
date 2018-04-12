@@ -95,6 +95,7 @@ $API->debug = false;
 													  <option value="3d 00:00:00">3 Dias</option>
 													  <option value="4d 00:00:00">4 Dias</option>
 													  <option value="5d 00:00:00">5 Dias</option>
+                                                      <option value="7d 00:00:00">7 Dias</option>
 												   </select>
                                 <br>
                                 Profile: 
