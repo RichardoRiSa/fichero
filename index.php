@@ -1,7 +1,7 @@
 
 
 <?php 
-
+// probando git
 session_start();
   if (isset($_SESSION['IP']) && $_SESSION['IP'] != ""){}else{
         echo '<script language = javascript>
